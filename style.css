@@ -1,0 +1,12 @@
+body{
+    background-color: rgb(145,109,0);
+}
+
+h1{
+    text-align: center;
+}
+
+article{
+    background-color: white;
+    padding: 30px;
+}
